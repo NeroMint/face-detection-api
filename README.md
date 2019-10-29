@@ -10,5 +10,6 @@ and the following libraries:
 
 - bcrypt
 - body-parser
+- knex
 
 
