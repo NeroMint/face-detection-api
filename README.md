@@ -5,6 +5,7 @@ The repository contains back-end's code of the face detection. The back-end of t
 - Express
 - PostgreSQL
 - clarifai's api
+
 and the following libraries:
 
 - bcrypt
